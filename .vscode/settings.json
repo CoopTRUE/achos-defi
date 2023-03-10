@@ -4,5 +4,6 @@
     "editor.formatOnSave": false
   },
   "files.eol": "\n",
-  "typescript.tsdk": "node_modules/typescript/lib" // Keep consistent with .prettierrc
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.words": ["ACHOS"] // Keep consistent with .prettierrc
 }
